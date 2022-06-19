@@ -2,3 +2,5 @@
 [``botnet.py``](botnet.py) is a sample botnet that sends DDoS attack on a chosen victim using Multithreading concept  
 
 [``rootkit.c``](rootkit.c) is a very basic rootkit developed to intercept and manipulate the system calls
+
+[``main.cpp``](main.cpp) can be used to detect botnet and DDoS attacks
