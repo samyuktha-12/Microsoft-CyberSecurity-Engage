@@ -25,5 +25,5 @@ for i in range(500):
     thread = threading.Thread(target=attack)
     thread.start()
 
-""" The concept of multithreading is to multiple requests at once against sending requests 
+""" The concept of multithreading is to send multiple requests at once against sending requests 
 one after the other using the function using a loop."""
